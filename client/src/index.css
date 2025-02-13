@@ -9,8 +9,9 @@ body {
 }
 
 h2 {
-  @apply text-xl md:text-4xl
+  @apply text-xl;
 }
+
 
 p {
   @apply text-xl tracking-tight leading-relaxed
@@ -30,5 +31,5 @@ span {
 }
 
 .bg-primary-color {
-    @apply bg-purple-600
+  @apply bg-purple-600
 }

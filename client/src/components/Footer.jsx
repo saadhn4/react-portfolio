@@ -16,7 +16,9 @@ const Footer = () => {
         </div>
       </div>
 
-      <p className="text-gray-400">@2024 S. Hussain</p>
+      <p className="text-gray-400">@2024 Saad Hussain</p>
+      <p className="text-gray-400">+919030358367</p>
+      <p className="text-gray-400">saadcfi4@gmail.com</p>
     </div>
   );
 };
